@@ -1,0 +1,16 @@
+{
+  "name": "dfans-techrider",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quackes/dfans-techrider.git"
+  },
+  "author": "Tobias Wingerter",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "markdown-pdf": "^7.0.0"
+    "gulp-markdown-pdf": "^4.0.0"
+  },
+}
