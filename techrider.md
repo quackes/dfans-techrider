@@ -51,7 +51,7 @@ Es ist eine der Bühnengröße angemessene Lichttechnik bereitzuhalten.
 Für eine ausreichende Frontbeleuchtung ist zu sorgen. 
 Gerne auch Backlights als Effekt platzieren. 
 Gerne auch Nebelmaschienen oder Hazer. 
-Beim Einsatz deren Einsatz bitte darauf achten, dass der Lead-Gesang nicht zu sehr eingenebelt wird, da dies beim Singen hindert. 
+Bei deren Einsatz bitte darauf achten, dass der Lead-Gesang nicht zu sehr eingenebelt wird, da dies beim Singen hindert. 
 Allgemein bitte nicht mit dem Nebel übertreiben, sodass der Blickkontakt der Band untereinander und zum Publikum nicht zu sehr beeinträchtigt wird. 
 Eine kompetente, bedienende Person ist vom Veranstalter zu stellen (nüchern!). 
 
