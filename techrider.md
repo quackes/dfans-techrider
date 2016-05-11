@@ -58,8 +58,11 @@ Eine kompetente, bedienende Person ist vom Veranstalter zu stellen (nüchern!).
 
 ### technischer Kontakt
 Tobias Wingerter
+
 tobi@dfans.de
+
 oder über Facebook
+
 http://facebook.com/dfans
 
 ## Organisatorisches 
