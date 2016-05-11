@@ -1,6 +1,5 @@
 ﻿# Techrider D-Fans
 
-Folgende Vorraussetzungen sollten erfüllt sein, um das optimale Gelingen des Auftritts zu ermöglichen. 
 Der Inhalt dieses Dokumentes ist als technischer und organisatorischer Leitfaden für das Auftreten der Band D-Fans zu verstehen. 
 Alle Dinge in diesem Dokument beschreiben den Optimalfall. 
 Sollten Teile dieses Riders aus irgendwelchen Gründen nicht erfüllbar sein, bitten wir darum, frühzeitig Kontakt aufzunehmen. 
@@ -18,7 +17,8 @@ Ein Techniker/Ansprechpartner des Veranstalters muss vor, während und nach dem 
 Ausreichend dimensioniertes Pult (mind. 16 Kanäle, bei Abnahme der Toms mehr) mit 4 Auxwegen. 
 In kleineren Veranstaltungsorten genügen 2 Aux-Wege.
 Wir sind in der Regel ohne eigenen Mischer unterwegs. 
-Monitoring 
+
+### Monitoring 
 Es werden 5 Floormonitore optimaler Weise an 4 Aux-Wegen mit ausreichendem Amping benötigt. 
 In kleineren Veranstaltungsorten genügen auch 3 Floormonitore an 2 Aux-Wegen. 
 
@@ -81,7 +81,7 @@ Dort sollten mindestens 5 Sitzplätze und ein Tisch zur Verfügung stehen.
 Idealerweise sollte in diesem Raum das Rauchen erlaubt sein. 
 
 ### Parkplätze 
-Je nach Umfang der mitgebrachten Technik und Instrumente sind zwei bis vier Parkplätze in angemessener Nähe zum Auftrittsort zur Verfügung zu stellen. 
+Je nach Umfang der mitgebrachten Technik und Instrumente sind ein bis vier Parkplätze in angemessener Nähe zum Auftrittsort zur Verfügung zu stellen. 
 Wir werden die genaue Anzahl mitteilen, sobald diese feststeht. Außerdem ist eine Ent- und Belademöglichkeit mit möglichst kurzem Weg zur Bühne zu schaffen. 
 
 ### Kontakt
